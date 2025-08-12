@@ -1,1 +1,2 @@
-update_script
+#!/bin/bash
+echo "Best School"
